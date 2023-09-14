@@ -1,8 +1,13 @@
-import ExpenseItem from "./components/ExpendseItem";
-import Expenses from "./components/Expenses";
+import Expenses from "./components/Expenses/Expenses";
 
-function App() {
+const App = () => {
   const expenses = [
+    {
+      id: "e0",
+      title: "Bieszczady",
+      amount: 250.99,
+      date: new Date(2023, 9, 15),
+    },
     {
       id: "e1",
       title: "Toilet Paper",
@@ -29,6 +34,6 @@ function App() {
       <Expenses expenses={expenses} />
     </div>
   );
-}
+};
 
 export default App;
