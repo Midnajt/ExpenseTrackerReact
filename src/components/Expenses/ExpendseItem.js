@@ -1,12 +1,10 @@
 import React, { useState } from "react";
+
 import ExpenseDate from "./ExpenseDate.js";
 import Card from "../UI/Card.js";
 import "./ExpenseItem.css";
 
 function ExpenseItem(props) {
-  //useState() narzedzie do robienia state'ow
-  //setTitle funkcja do zmiany zmiennej/state'u
-  //titile zmienna
   const [title, setTitle] = useState(props.title);
 
   const clickHandler = () => {
