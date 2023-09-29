@@ -9,17 +9,6 @@ const Expenses = (props) => {
   const content = props.expenses;
   const [filteredYear, setFilteredYear] = useState("2020");
 
-  let filterInfoText = "2019, 2021 $ 2022";
-  if (filteredYear === "2019") {
-    filterInfoText = "2020, 2021 $ 2022";
-  } else if (filteredYear === "2020") {
-    filterInfoText = "2019, 2021 $ 2022";
-  } else if (filteredYear === "2021") {
-    filterInfoText = "2019, 2020 $ 2022";
-  } else {
-    filterInfoText = "2019, 2020 $ 2021";
-  }
-
   const filterChangeHandler = (selectedYear) => {
     setFilteredYear(selectedYear);
   };
@@ -31,7 +20,6 @@ const Expenses = (props) => {
           selected={filteredYear}
           onChangeFilter={filterChangeHandler}
         />
-        <p>{filterInfoText} is hidden.</p>
         {content.map((expense) => {
           return (
             <ExpenseItem
