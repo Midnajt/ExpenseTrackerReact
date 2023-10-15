@@ -1,0 +1,101 @@
+[33mcommit a840bcb80503b8f00c786aeeda2ea2a874105956[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Marcin_dev <midnajt0@gmail.com>
+Date:   Sat Oct 14 15:54:15 2023 +0200
+
+    rendering list of data, using stateful lists, filter lists
+
+[33mcommit 2559762a9776d4b41f2c72624a6c0cec10745893[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Fri Sep 29 14:28:49 2023 +0200
+
+    end of section 5
+
+[33mcommit 4a6455dc226641b6f43b54708228b092cfc6bc9a[m[33m ([m[1;31morigin/5_ReactState_WorkingWithEvents[m[33m)[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Fri Sep 29 14:17:10 2023 +0200
+
+    derived / computed state
+
+[33mcommit ceaabb5ef1f6595f0cab2f1c574c5b893ac5d03b[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Thu Sep 28 17:55:37 2023 +0200
+
+    states practices
+
+[33mcommit 7521f53db162bd78e5598988fc44f273dfdad6b2[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Thu Sep 28 17:14:21 2023 +0200
+
+    child-to-parent component communication
+
+[33mcommit bee365b79befd402bc8c994ea00f80f6e62c0219[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Thu Sep 28 16:49:33 2023 +0200
+
+    alternative way to handle inputs events
+
+[33mcommit c60647f2a6e0177be25d225057e1573144acdbc3[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Wed Sep 27 17:54:16 2023 +0200
+
+    3 ways to update state
+
+[33mcommit 09528d85b2bb6a6a337f486b9240b0cc415f32b7[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Wed Sep 27 17:47:27 2023 +0200
+
+    update multiple data to state
+
+[33mcommit 027709dfb3e98ce51591e867d8b5b59ef391c37e[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Wed Sep 27 17:00:55 2023 +0200
+
+    useState basics
+
+[33mcommit c1cbdaf6eafd59cd80259b0bae7c4643da7bea2a[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Thu Sep 14 08:32:43 2023 +0200
+
+    react components section done
+
+[33mcommit bf2e7254f5179ca0ee4cd30470f70290182555ed[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Wed Sep 13 17:55:18 2023 +0200
+
+    components exercises
+
+[33mcommit 517eeb87d13c310ec823ba0df3d1a0474d833ef4[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Tue Sep 12 16:58:32 2023 +0200
+
+    task
+
+[33mcommit 4e08d64bca9fe0d7976a66b44a4c1f1555e4c55e[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Mon Sep 11 16:52:02 2023 +0200
+
+    ccd
+
+[33mcommit 26247888734275585720c15442fbb2d1948a9b6d[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Mon Sep 11 16:36:47 2023 +0200
+
+    props
+
+[33mcommit 399bfb6d8de8e4221192faa3d9c60c10fa072faf[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Wed Sep 6 16:57:22 2023 +0200
+
+    ExpenseItem, css added, vars as text
+
+[33mcommit f097aff539083e7f12d583b5982f0ee33ac30528[m
+Author: Marcin K <m.krzysztoszek@cermotor.com.pl>
+Date:   Tue Sep 5 16:57:29 2023 +0200
+
+    init
+
+[33mcommit df1f953ad29c95a5614adf702b52b8a28c9afda1[m
+Author: Marcin Krzysztoszek <78197145+Midnajt@users.noreply.github.com>
+Date:   Tue Sep 5 16:54:25 2023 +0200
+
+    Initial commit
