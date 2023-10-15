@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffec } from "react";
 
 import NewExpense from "./components/NewExpense/NewExpense";
 import Expenses from "./components/Expenses/Expenses";
@@ -22,6 +22,30 @@ const DUMMY_EXPENSES = [
     title: "New Desk (Wooden)",
     amount: 450,
     date: new Date(2021, 5, 12),
+  },
+  {
+    id: "e5",
+    title: "Laptop",
+    amount: 1200,
+    date: new Date(2019, 4, 20),
+  },
+  {
+    id: "e6",
+    title: "Smartphone",
+    amount: 699.99,
+    date: new Date(2020, 9, 15),
+  },
+  {
+    id: "e7",
+    title: "Vacation",
+    amount: 1500,
+    date: new Date(2021, 8, 5),
+  },
+  {
+    id: "e8",
+    title: "Home Renovation",
+    amount: 3500,
+    date: new Date(2022, 1, 10),
   },
 ];
 
